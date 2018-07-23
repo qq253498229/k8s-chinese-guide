@@ -1,1 +1,1 @@
-# Kubernetes 中文手册
+# k8s-chinese-guide
